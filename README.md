@@ -1,4 +1,4 @@
-![logo_ironhack_blue 7](https://raw.githubusercontent.com/OSCGRA/shark_attack_report/main/logo.jpeg)
+![logo_ironhack_blue 7](https://github.com/OSCGRA/shark_attack_report/blob/23a3dd8e61461cbd39702740d5cceab19a4d4c25/Images/logo.jpeg)
 
 # QUEST 2 | # shark_attack_report
 
